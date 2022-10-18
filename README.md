@@ -5,7 +5,7 @@
 
 
 
-## Optimized Contract Gas
+## Optimized Contract Gas (All Attempts)
 - Require 1 (26 292 gas)
 - Require 2 (26 282 gas)
 - Require 3 (26 226 gas)
