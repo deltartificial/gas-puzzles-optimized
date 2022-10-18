@@ -3,10 +3,15 @@
 ## Non-Optimized Contract Gas
 - Require (43 392 gas)
 
+
+
 ## Optimized Contract Gas
 - Require 1 (26 292 gas)
 - Require 2 (26 282 gas)
 - Require 3 (26 226 gas)
+
+
+
 
 Rules
 - you may not change the optimizer level
