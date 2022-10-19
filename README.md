@@ -3,14 +3,14 @@
 ## Non-Optimized Contract Gas
 - Require (43 392 gas)
 - ArraySum (23 399 gas)
- 
+- Distribute (71 953 gas)
 
 ## Optimized Contract Gas (All Attempts)
 - Require 1 (26 292 gas)
 - Require 2 (26 282 gas)
 - Require 3 (26 226 gas)
 - ArraySum 1 ( gas)
-
+- Distribute 1 ( gas)
 
 
 Rules
